@@ -23,10 +23,32 @@ funding, and what policy implications emerge from these patterns.
 - Interactive charts with `plotly`
 
 ## Key Findings
-*To be updated as analysis progresses.*
+
+### 1. AI Investment by Region (2013–2025)
+![AI Investment by Region](outputs/ai_investment_by_region.png)
+
+### 2. Investment Trends & Key Policy Events
+![AI Investment and Policy Events](outputs/ai_investment_policy_events.png)
+
+### 3. US vs China: Share of Global AI Investment
+![US vs China Share](outputs/us_china_share.png)
+
+Key takeaways:
+- The US accounts for **83% of global AI private investment in 2025** ($240B of $290B total)
+- China peaked at ~32% of global share in 2018 and has declined sharply since
+- US investment surged dramatically post-2022, coinciding with the ChatGPT launch
+  and subsequent AI boom
+- Europe remains a distant third, raising questions about competitiveness
+  and the role of the EU AI Act in shaping investment incentives
 
 ## Policy Implications
-*To be updated as analysis progresses.*
+
+- **US dominance is structural, not cyclical** — the gap with China and Europe
+  is widening, not narrowing
+- **Regulation timing matters** — the EU AI Act's proposal in 2021 coincides
+  with a period of stagnant European investment share
+- **Export controls appear effective** — China's declining share post-2022
+  aligns with US chip and technology export restrictions
 
 ## How to Run
 ```bash
